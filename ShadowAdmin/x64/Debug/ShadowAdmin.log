@@ -1,0 +1,4 @@
+﻿  ShadowAdmin.cpp
+C:\Users\PC\source\repos\ShadowAdmin\ShadowAdmin\ShadowAdmin.cpp(64,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\source\repos\ShadowAdmin\ShadowAdmin\ShadowAdmin.cpp(127,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ShadowAdmin.vcxproj -> C:\Users\PC\source\repos\ShadowAdmin\x64\Debug\ShadowAdmin.exe
